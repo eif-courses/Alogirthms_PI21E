@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Marius/CLionProjects/Alogirthms_PI21E/search
+# Install script for directory: C:/Users/Marius/CLionProjects/Alogirthms_PI21E/binary_search
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,6 +34,6 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/Marius/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Users/Marius/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.7172.20/bin/mingw/bin/objdump.exe")
 endif()
 
